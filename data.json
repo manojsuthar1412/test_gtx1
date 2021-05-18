@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "King palace",
+      "isRented": "Yes",
+      "condition": "Excellent",
+      "tenants": "Atul, Mohan, Suresh"
+    },
+    {
+      "id": "2",
+      "name": "Queen palace",
+      "isRented": "Yes",
+      "condition": "Good",
+      "tenants": "Bhavesh, Hitesh,Pramod"
+    },
+    {
+      "id": "3",
+      "name": "Wazir",
+      "isRented": "No",
+      "condition": "Excellent",
+      "tenants": "None"
+    }
+  ]
+}
